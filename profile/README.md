@@ -2,6 +2,16 @@
 
 This organization provides tools for the migration to **GitHub Enterprise Cloud (GHEC)**.
 
+## Extensions
+
+### [gh-bbc2gh](https://github.com/gh-migration-tools/gh-bbc2gh)
+
+A GitHub CLI extension for Bitbucket Cloud to GitHub migrations.
+
+### [gh-gl2gh](https://github.com/gh-migration-tools/gh-gl2gh)
+
+A GitHub CLI extension for GitLab to GitHub migrations.
+
 ## Libraries
 
 ### [Octoshift](https://github.com/gh-migration-tools/Octoshift)
